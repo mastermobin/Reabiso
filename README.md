@@ -1,6 +1,6 @@
 # Reabiso
-Project details is available in Persian language [Here](/REABISO>pdf).
 ![Name](/GithubMedia/Reabiso.png)
+Project details is available in Persian language [Here](/REABISO.pdf).
 
 ## Description:
 This project had a dataset of 7 english letters (R-E-A-B-I-S-O) with padding in different sizes. Students should crop and resize dataset images in order to achieve an average image for each letter. And, after that they can detect any letter by a simple correlation. 
